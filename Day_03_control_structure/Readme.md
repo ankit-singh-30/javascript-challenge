@@ -1,61 +1,51 @@
-# 📅🥇 Day 2: Operators
+# 📅🥇 Day 3: Control Structures
 
 ## 📌📝 Tasks/Activites:
 
-### 📝 Activity 1: Arithmetic Operations
+### 📝 Activity 1: If-Else Statements
 
-#### Task 1: Write a program to add two numbers and log the result to the console.
+#### Task 1: Write a program to check if a number is positive, negative, or zero, and log the result to the console.
 
-#### Task 2: Write a program to subtract two numbers and log the result to the console.
+#### Task 2: Write a program to check if a person is eligible to vote (age >= 18) and log the result to the console.
 
-#### Task 3: Write a program to multiply two numbers and log the result to the console.
+### 📝 Activity 2: Neseted If-Else Statements
 
-#### Task 4: Write a program to divide two numbers and log the result to the console.
+#### Task 3: Write a program to find the largest of three numbers using nested if-else statements.
 
-#### Task 5: Write a program to find the remainder when one number is divided by another and log the result to the console.
+### 📝 Activity 3: Switch Case
 
-### 📝 Activity 2: Assignment Operators
+#### Task 4: Write a program that uses a switch case to determine the day of the week based on a number (1-7) and log the day name to the console..
 
-#### Task 6: Use the `+=` operator to add a number to a variable and log the result to the console.
+#### Task 5: Write a program that uses a switch case to assign a grade ('A', 'B', 'C', 'D', 'F) based on a score and log the grade to the console.
 
-#### Task 7: Use the `-=` operator to subtract a number from a variable and log the result to the console.
+### 📝 Activity 4: Conditonal (Ternary) Operator
 
-### 📝 Activity 3: Comparison Operators
+#### Task 6: Write a program that uses the ternary operator to check if a number is even or odd and log the result to the console.
 
-#### Task 8: Write a program to compare two numbers using `>` and `<` and log the result to the console.
+### 📝 Activity 5: Combining Conditions
 
-#### Task 9: Write a program to compare two numbers using `>=` and `<=` and log the result to the console.
-
-#### Task 10: Write a program to compare two numbers using `==` and `===` and log the result to the console.
-
-### 📝 Activity 4: Logical Operators
-
-#### Task 11: Write a program that uses the `&&` operator to combine two conditions and log the result to the console.
-
-#### Task 12: Write a program that uses the `||` operator to combine two conditions and log the result to the console.
-
-#### Task 13: Write a program that uses the `!` operator to negate a conditions and log the result to the console.
-
-### 📝 Activity 5: Ternary Operators
-
-#### Task 14: Write a program that uses the ternary operator to check if a number is positive or negative and log the result to the console.
+#### Task 7: Write a program to check if a year is a leap year using multiple conditions (divisible by 4, but not 100 unless also divisible by 400) and log the result to the console.
 
 ## 💫 Feature Request:
 
-#### 1. **Arithmetic Operations Script:** Write a script that performs basic arithmetic operations (addition, subtraction, multiplication, division, remainder) on two numbers and logs the results.
+#### 1. **Number Check Script:** Write a script that checks if a number is positive, negative, or zero using if-else statements and logs the result.
 
-#### 2. **Comparison and Logical Operators Script:** Create a script that compares two numbers using different comparison operators and combines conditions using logical operators, logging the results.
+#### 2. **Voting Eligibility Script:** Create a script to check if a person is eligible to vote based on their age and log the result.
 
-#### 3 . **Ternary Operator Script:** Write a script that uses the ternary operator to determine if a number is positive or negative and logs the result.
+#### 3 . **Day of the Week Script:** Write a script that uses a switch case to determine the day of the week based on a number (1-7) and logs the day name.
+
+#### 4 . **Grade Assignment Script:** Create a script that uses a switch case to assign a grade based on a score and logs the grade.
+
+#### 5 . **Leap Year Check Script:** Write a script that checks if a year is a leap year using multiple conditions and logs the result.
 
 ## 🏁 Achievement:
 
-- Understand and use arithmetic operators to perform basic calculations.
+- Implement and understand basic if-else control flow.
 
-- Use assignment operators to modify variable values.
+- Use nested if-else statements to handle multiple conditions.
 
-- Compare values using comparison operators.
+- Utilize switch cases for control flow based on specific values.
 
-- Combine conditions using logical operators.
+- Apply the ternary operator for concise condition checking.
 
-- Use the ternary operator for concise conditional expressions.
+- Combine multiple conditions to solve more complex problems.
